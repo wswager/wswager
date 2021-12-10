@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wes_swager-informational?style=social&logo=LinkedIn)](https://www.linkedin.com/in/wes-swager/)
+[![Medium](https://img.shields.io/badge/Medium-wswager-informational?style=social&logo=Medium)](https://medium.com/@wswager)
+[![Twitter](https://img.shields.io/badge/Twitter-wes_swager_6-informational?style=social&logo=Twitter)](https://twitter.com/wes_swager_6/)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=wswager&show_icons=true&hide_border=true&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=wswager&theme=dark&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wswager&layout=compact&theme=dark&hide_border=true)
